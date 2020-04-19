@@ -22,6 +22,7 @@ export const expressPort = 3000
 // Client id that Google will use to make authorized requests
 // In a production environment you should change this value
 export const googleClientId = 'sampleClientId'
+export const googleClientId = 'AIzaSyBj5-eKK31MOk_LUiBhECW18Ciq4tPaZJk'
 
 // Client secret that Google will use to make authorized requests
 // In a production environment you should change this value
